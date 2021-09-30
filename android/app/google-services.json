@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "872765526235",
+    "project_id": "durotto-59f9c",
+    "storage_bucket": "durotto-59f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872765526235:android:ecf6ab4f2d44115092fcfe",
+        "android_client_info": {
+          "package_name": "com.projucti.durotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872765526235-mfn1ghhi284ln9u0muggu162sir9m16t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projucti.durotto",
+            "certificate_hash": "61529e33380d8b4d8fffc84c3cdbea8833628bc5"
+          }
+        },
+        {
+          "client_id": "872765526235-6oaul88je4qedsrcnd2qj4m444vo486g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ39orJMWRQtB75ofl-GLZZatJmIRK7ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872765526235-6oaul88je4qedsrcnd2qj4m444vo486g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
